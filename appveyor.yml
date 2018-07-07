@@ -11,11 +11,11 @@ environment:
     - GENERATOR: "Visual Studio 12 2013"
 
 platform:
-  - x86
+
   - x64
 
 configuration:
-  - Debug
+  - Release
 
 build:
   verbosity: normal
